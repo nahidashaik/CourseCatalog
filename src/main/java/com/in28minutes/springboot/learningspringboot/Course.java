@@ -1,5 +1,8 @@
 package com.in28minutes.springboot.learningspringboot;
 
+/*
+ * @author Nahida Shaik
+ */
 public class Course {
 	private long id;
 	private String name;
